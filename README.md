@@ -9,3 +9,4 @@
 - [새해맞이 문제 난이도 중1](new-years-medium-1.py)
 - [새해맞이 문제 난이도 중 2](new-years-medium-2.py)
 - [새해맞이 문제 난이도 상](new-years-hard.py)
+- [7일차](day-07.py) : 반복문
